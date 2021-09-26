@@ -17,3 +17,7 @@ class Solution(object):
 
 a = Solution()
 print(a.twoSum([2,7,11,15], 9))
+
+#Complexity
+#O(n)
+#O(n)
